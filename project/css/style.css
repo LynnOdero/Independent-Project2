@@ -1,0 +1,85 @@
+.container{
+  max-width: 80%;
+  position: relative;
+  margin: auto;
+  background-color: 	#DCDCDC;
+  padding : 30px;
+}
+
+.nav{
+  background-color: 	#2E8B57;
+  padding : 30px;
+  border-color: #40E0D0;
+  border-style: double;
+}
+
+h1{
+  text-align: center;
+  font-size: 70px;
+  font-family: monospace;
+}
+img{
+  border-radius: 100%;
+  float: right;
+  max-width: 500px;
+  max-height: 100px;
+}
+
+  h3{
+  font-size: 50px
+  text-align: center;
+}
+
+table{
+border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: blue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.www{
+  color: black;
+  align-content: center;
+}
+
+.offset{
+  text-align: center;
+  text-decoration: underline;
+}
+
+
+section.body{
+
+  margin-left: 400px;
+  margin-top: 20px;
+  font-size: 20px;
+
+}
+
+section.button{
+  margin-left: 50%;
+    position: relative;
+}
+
+section>h3{
+  background: 	#008080;
+  font-family: monospace;
+  padding : 30px ;
+}
+
+section > p{
+  margin-left: 30px;
+  margin-right: 30px;
+}
