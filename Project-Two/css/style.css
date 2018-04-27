@@ -1,10 +1,34 @@
-body{
-  background-color: #D4AF37
+
+.jumbotron{
+background-image:url('../img/landing.jpg');
+text-align: center;
 }
 
-h2{
-font-size: 30px;
-font-family:sans-serif;
-font-weight: bolder;
-position: inherit;
+h1{
+font-size: 30px
+position: relative;
+
+
+}
+
+.img1{
+  background-color: white;
+}
+
+.img2{
+background-color: orange;
+
+}
+
+.img3{
+  background-image: url('../img/breakfast.jpg');
+}
+
+.img4{
+background-image: url('../img/lunch.jpg');
+
+}
+.img5{
+background-image: url('../img/dinner.jpg');
+
 }
