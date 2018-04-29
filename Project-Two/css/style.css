@@ -2,10 +2,14 @@
 .jumbotron{
 background-image:url('../img/landing.jpg');
 text-align: center;
+  margin-bottom: 0;
 }
 
 .tabstrip-img {
 background-image:url('../img/foodsBg.jpg');	
+}
+.footer-img {
+background-image:url('../img/subscribe.jpg');	
 }
 h1{
 font-size: 30px
@@ -14,12 +18,19 @@ position: relative;
 
 }
 
+.default-text-color{
+	color :  #F15A29;
+}
+.white-text-color{
+	color :  white;
+}
+
 .img1{
   background-color: white;
 }
 
 .img2{
-background-color: orange;
+background-color: #F15A29;
 
 }
 
@@ -35,3 +46,12 @@ background-image: url('../img/lunch.jpg');
 background-image: url('../img/dinner.jpg');
 
 }
+.navbar {
+ margin-bottom: 50px;
+ border-radius: 0;
+ }
+
+footer{
+background-color: #f2f2f2;
+padding: 25px;
+ }
