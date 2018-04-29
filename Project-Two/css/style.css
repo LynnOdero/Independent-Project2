@@ -4,6 +4,9 @@ background-image:url('../img/landing.jpg');
 text-align: center;
 }
 
+.tabstrip-img {
+background-image:url('../img/foodsBg.jpg');	
+}
 h1{
 font-size: 30px
 position: relative;
