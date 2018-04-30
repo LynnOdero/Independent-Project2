@@ -51,15 +51,29 @@ background-image: url('../img/dinner.jpg');
  border-radius: 0;
  }
 
+
+
 h5{
   text-transform: inherit;
   font-family: verdana;
   font-size: 20px;
+  font-style: normal;
 }
 
+h5{
+  text-transform: inherit;
+  font-family: verdana;
+  font-size: 20px;
+  font-style: normal;
+}
 
 
 footer{
 background-color: #f2f2f2;
 padding: 25px;
+ }
+
+ p,h5{
+   font-family: 'Poor Story', cursive;
+   font-size: 24px;
  }
