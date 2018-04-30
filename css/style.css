@@ -68,7 +68,26 @@ h5{
 }
 
 h3{
-  text color: red;
+  color: red;
+}
+
+.row .customers{
+      background-color: white;
+      box-shadow:2px 2px 2px 2px grey;
+      padding : 50px;
+      width: 100%;
+      margin-bottom: 50px;
+
+}
+
+
+.mySpace{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.righte{
+  border-right:solid grey;
 }
 
 
