@@ -67,6 +67,11 @@ h5{
   font-style: normal;
 }
 
+h3{
+  text color: red;
+}
+
+
 
 footer{
 background-color: #f2f2f2;
@@ -75,5 +80,5 @@ padding: 25px;
 
  p,h5{
    font-family: 'Poor Story', cursive;
-   font-size: 24px;
+   font-size: 20px;
  }
